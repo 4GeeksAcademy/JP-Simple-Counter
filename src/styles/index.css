@@ -10,3 +10,19 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+body {
+    background-color: black;
+    display: fixed;
+}
+
+.text-center{
+    justify-content: center;
+    display: flex;
+}
+
+.row{
+    font-size: 24px;
+    width: 60%;
+    color:white;
+}
